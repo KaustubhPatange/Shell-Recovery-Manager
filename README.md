@@ -37,3 +37,8 @@ Before using this tool note that I am not responsible for any damage cause to yo
 Some Important things you should know before using this:
 
 For using this tool you show at first know what is adb and its basic commands also must have a bit knowledge of adb shell commands i.e whole android terminal commands most similar to linux or ubuntu. Before writing any command in the tool you must start with an “su” statement at first, then write the rest of whole commands you want. In the tool I have differentiate Shell commands and recovery commands, this two things basically differs shell commands are using in android terminal while recovery commands are used in twrp, cwm, philz (in short storing commands in some cache and when you will reboot into recovery, it will be automatically executed), check the guide here. Also you can use our default shell commands for recovery scripts, eventhough there are some which may not work but still… And ya one thing for recovery shell scripts the line of execution differs while in shell they are executed in line by line wise, this is because actually they are store in temporary cache form. For more details try the example scripts in the Tool and watch youtube guide video.
+
+## Releases:
+
+version 1.0
+*Initial release
