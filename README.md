@@ -1,5 +1,7 @@
 # Shell-Recovery-Manager
 
+Main Page here :- http://developerkp.capstricks.net/index.php/2017/02/05/srm/
+
 ## What is this? 
 
 This is an All-in-one program designed to make shell executable scripts for android. For eg in the above image you can see its moreover like a notepad, and the commands written over there are executed by TWRP in recovery. This is for TWRP but you can also use adb shell commands like cp, mv, etc. This are basic but if you know some advanced like working adb shell as root  ‘su’ you can insert your own commands over there. See video for more info and how to use it.
