@@ -1,10 +1,10 @@
-## Shell-Recovery-Manager
+# Shell-Recovery-Manager
 
-# What is this? 
+## What is this? 
 
 This is an All-in-one program designed to make shell executable scripts for android. For eg in the above image you can see its moreover like a notepad, and the commands written over there are executed by TWRP in recovery. This is for TWRP but you can also use adb shell commands like cp, mv, etc. This are basic but if you know some advanced like working adb shell as root  ‘su’ you can insert your own commands over there. See video for more info and how to use it.
 
-# Features:
+## Features:
 
 *Small (3.4mb)
 *Easy and Simple User Interface
@@ -23,14 +23,14 @@ This is an All-in-one program designed to make shell executable scripts for andr
 *Some Example scripts for noobs or new users (just to catch up)
 *A full time log window (below) to capture log
 
-# Install Process:
+## Install Process:
 
 1. Download from release section below (3.4mb)
 2. Extract the zip anywhere into pc
 3. Run the Shell Manager.exe as Administrator
 4. ROCK!
 
-# Notes:
+## Notes:
 
 Before using this tool note that I am not responsible for any damage cause to your phone, if you point at me I will laugh at you. For how to use this tool just watch the whole youtube video somewhere embed in this page.
 
