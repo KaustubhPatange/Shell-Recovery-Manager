@@ -41,4 +41,4 @@ For using this tool you show at first know what is adb and its basic commands al
 ## Releases:
 
 version 1.0
-*Initial release
+* Initial Release
